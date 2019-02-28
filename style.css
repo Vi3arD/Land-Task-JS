@@ -1,0 +1,14 @@
+.main__block{
+    padding: 10px;
+    margin: 10px;
+}
+
+.main__block button{
+    margin: 5px 0px;
+    width: 100%;
+}
+
+#canvas{
+    margin: auto;
+    width: fit-content;
+}
